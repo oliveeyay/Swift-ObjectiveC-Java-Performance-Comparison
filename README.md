@@ -8,11 +8,11 @@ It is meant to compare performance on both platform, and comparing the performan
 Tests realized on iPhone 4S (800Mhz) and Galaxy S2 (1.2Ghz), which are pretty much the same generation (trying to compare at similar generation).
 * iOS:
  - Swift:
-	. Fibonacci (index 30): 1.50sec
-	. Bubble Sort (100 elements): can't show result, take too much time :(
+	_ Fibonacci (index 30): 1.50sec
+	_ Bubble Sort (100 elements): can't show result, take too much time :(
  - Objective-C:
-	. Fibonacci (index 30): 0.15sec
-	. Bubble Sort (1000 elements): 1.40sec
+	_ Fibonacci (index 30): 0.15sec
+	_ Bubble Sort (1000 elements): 1.40sec
 * Android:
  - Fibonacci (index 30): 0.35sec
  - Bubble sort (1000 elements): 0.064sec
