@@ -29,6 +29,7 @@ The followings tools are used:
  - Findbugs.
  - PMD.
  - Lint.
+ 
 By default, all the reports will be generated in the folder app/build/reports.
 
 Testing for Android
