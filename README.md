@@ -8,16 +8,17 @@ It is meant to compare performance on both platform, and comparing the performan
 Tests realized on iPhone 4S (800Mhz) and Galaxy S2 (1.2Ghz), which are pretty much the same generation (trying to compare at similar generation).
 * iOS:
  - Swift:
-	_ Fibonacci (index 30): 1.50sec
-	_ Bubble Sort (100 elements): can't show result, take too much time :(
+	- Fibonacci (index 30): 1.50sec
+	- Bubble Sort (100 elements): can't show result, take too much time :(
  - Objective-C:
-	_ Fibonacci (index 30): 0.15sec
-	_ Bubble Sort (1000 elements): 1.40sec
+	- Fibonacci (index 30): 0.15sec
+	- Bubble Sort (1000 elements): 1.40sec
 * Android:
  - Fibonacci (index 30): 0.35sec
  - Bubble sort (1000 elements): 0.064sec
  
  Please note that these results are for Swift Beta 2, which is not a release yet, and may suffer from some bugs and problems. Moreover, for now, Apple presented Swift with games performance, and not related to algorithm and UI performance.
+ 
 ======================
 
 Quality for Android
