@@ -1,7 +1,7 @@
 Swift-ObjectiveC-Java-Performance-Comparison
 ======================
 
-Sample android and iOS projects using Android Studio 0.8.0 and XCode 6 Beta 2
+Sample android and iOS projects using Android Studio 0.8.0 and XCode 6 Beta 3
 
 It is meant to compare performance on both platform, and comparing the performance between languages.
 
@@ -9,7 +9,7 @@ Tests realized on iPhone 4S (800Mhz) and Galaxy S2 (1.2Ghz), which are pretty mu
 * iOS:
  - Swift:
 	- Fibonacci (index 30): 1.50sec
-	- Bubble Sort (100 elements): can't show result, take too much time :(
+	- Bubble Sort (20 elements): 2.96sec (wow, poor result for 20 elements)
  - Objective-C:
 	- Fibonacci (index 30): 0.15sec
 	- Bubble Sort (1000 elements): 1.40sec

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TestBubbleSort.xcodeproj">
+      location = "self:TestBubbleSortSwift.xcodeproj">
    </FileRef>
 </Workspace>

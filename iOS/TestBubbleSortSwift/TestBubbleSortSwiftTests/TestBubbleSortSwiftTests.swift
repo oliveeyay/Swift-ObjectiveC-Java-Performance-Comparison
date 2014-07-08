@@ -1,14 +1,15 @@
 //
-//  TestBubbleSortTests.swift
-//  TestBubbleSortTests
+//  TestBubbleSortSwiftTests.swift
+//  TestBubbleSortSwiftTests
 //
-//  Created by AWL_02 on 02/07/2014.
+//  Created by AWL_02 on 08/07/2014.
 //  Copyright (c) 2014 awl. All rights reserved.
 //
 
+import UIKit
 import XCTest
 
-class TestBubbleSortTests: XCTestCase {
+class TestBubbleSortSwiftTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
